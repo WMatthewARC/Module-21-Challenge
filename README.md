@@ -35,12 +35,9 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 ![Capture06](https://user-images.githubusercontent.com/30300016/201495637-c0964640-7ac5-41dc-99bc-96c2fcb20525.JPG)
 
 1. **Overview** of the analysis: Explain the purpose of this analysis.
+   I saw I came I written a model to help see weather campaign where successful and the model seems fairly accurate.
 
-I saw I came I written a model to help see weather campaign where successful and the model seems fairly accurate.
-
-2. **Results**: Using bulleted lists and images to support your answers, address the following questions.
-
-  * Data Preprocessing
+2. **Results**: Data Preprocessing
     * What variable(s) are the target(s) for your model?
     AFFILIATION	CLASSIFICATION	USE_CASE	INCOME_AMT	SPECIAL_CONSIDERATIONS	ASK_AMT	IS_SUCCESSFUL are all used. Anything that would be considered as a variable in that campaign and whether it was successful.
    
@@ -52,11 +49,11 @@ I saw I came I written a model to help see weather campaign where successful and
 
 * Compiling, Training, and Evaluating the Model
     * How many neurons, layers, and activation functions did you select for your neural network model, and why?
-    3 see in the images above.
+       3 see in the images above.
     * Were you able to achieve the target model performance?
-    Yes 75%
+       Yes 75%
     * What steps did you take in your attempts to increase model performance?
-    Adjust what variables to use and how much weight to give them settled on 45 
+        Adjust what variables to use and how much weight to give them settled on 45 
 
 thank you for your time. 
 Matt-- 
